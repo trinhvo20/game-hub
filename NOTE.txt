@@ -1,0 +1,28 @@
+Create a react project:
+npm create vite@4.1.0
+
+Go to new project's folder using 'cd' and then install all dependencies:
+npm i
+
+Run our web server:
+npm run dev
+
+Add git repository in GitHub:
+git init
+git add .
+git commit -m "Initial commit"
+
+To fetch data, use library called 'axios'
+npm i axios
+
+To deploy our website using [Vercel]:
+npm i -g vercel
+
+==============================================================================
+About the app:
+Use [Chakra UI]
+Fetch data from [rawg.io] using get API key [fe8b035e792c4effae42d4a3c368faad]
+
+==============================================================================
+Link to app:
+https://game-hub-nu-gilt.vercel.app/
